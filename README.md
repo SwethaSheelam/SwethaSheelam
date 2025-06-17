@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm  SWETHA</h1>
 <h3 align="center">A Passionate Full Stack Software Engineer from India</h3>
+<h5>Im hard-working person who is always hungry to learn new things and have a good grasp of Computer Science Fundamentals such as DBMS,SDLC,SQL</h5>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethasheelam&label=Profile%20views&color=0e75b6&style=flat" alt="swethasheelam" /> </p>
 
@@ -7,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **LMS Project**
+- 🔭 I’m currently working on Projects
 
 - 🌱 I’m currently learning **Node and Expressjs Framework**
 
-- 👯 I’m looking to collaborate on **Lms Project**
+- 👯 I’m looking to collaborate with project works
 
 - 🤝 I’m looking for help with **Lms Project**
 
